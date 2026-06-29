@@ -1,0 +1,7 @@
+streamlit
+mediapipe
+pandas
+numpy
+scikit-learn
+joblib
+pillow
